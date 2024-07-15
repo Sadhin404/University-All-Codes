@@ -1,0 +1,5 @@
+Run cmd as administrator
+go to this location and type this command 
+cd C:\Program Files\CodeBlocks\MinGW\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\x86_64-w64-mingw32\bits
+after that type this command 
+g++ -std=c++17 stdc++.h
