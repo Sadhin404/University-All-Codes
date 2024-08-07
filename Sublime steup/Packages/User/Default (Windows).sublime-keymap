@@ -1,0 +1,6 @@
+[
+	{"keys" : ["ctrl+alt+c"], "command": "cancel_build"},
+	{ "keys": ["ctrl+alt+f"], "command": "reindent", "args": {"single_line": true}},
+
+]
+
